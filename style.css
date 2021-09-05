@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+cite {
+    font-style: normal;
+    font-weight: 600;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+p {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #AE7C78;
+}
+
+h1,
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: 0.02em;
+}
+
+h1 {
+    font-size: 44px;
+    line-height: 59px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 29px;
+    font-weight: normal;
+}
+
+ul.navbar-menu li {
+    font-size: 16px;
+    line-height: 19.5px;
+}
+
+.button {
+    background-color: inherit;
+    font-size: 16px;
+    line-height: 20px;
+    width: 285px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+dl {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+dl dt {
+    font-weight: 600;
+}
+
+dl dd {
+    font-weight: normal;
+}
+
+.price {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.catalog-preview {
+    color: #FFFFFF;
+}
+
+.catalog-preview article {
+    width: 387px;
+    height: 442px;
+}
+
+.weddingFlowers {
+    background: linear-gradient(#f0629266, #f0629266), url("images/weddingFlowers.png") no-repeat;
+}
+
+.peoniesFlowers {
+    background: linear-gradient(#f0629266, #f0629266), url("images/peoniesFlowers.png") no-repeat;
+}
+
+.assortmentFlowers {
+    background: linear-gradient(#f0629266, #f0629266), url("images/assortmentFlowers.png") no-repeat;
+}
+
+.discount {
+    color: #FFFFFF;
+    background-color: #AE7C78;
+}
+
+.discount p {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.about-us__title {
+    font-weight: 600;
+}
