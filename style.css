@@ -119,3 +119,8 @@ dl dd {
 .about-us__title {
     font-weight: 600;
 }
+
+.footer-navigation {
+    color: white;
+    background-color: #AE7C78;
+}
