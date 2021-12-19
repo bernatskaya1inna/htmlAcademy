@@ -18,6 +18,7 @@ cite {
 
 ul li {
     list-style-type: none;
+    color: red;
 }
 
 p {
@@ -44,6 +45,7 @@ h2 {
 h1 {
     font-size: 44px;
     line-height: 59px;
+    color: red;
 }
 
 h3 {
